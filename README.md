@@ -43,7 +43,7 @@
 learntrack/
 ├── core-knowledge/          # Conhecimento teórico fundamental
 │   ├── mathematics/         # Fundamentos matemáticos
-│   │   ├── discrete-math/   # Matemática discreta aplicada
+│   │   ├── discrete-math/   # Matemática discreta 
 │   │   └── linear-algebra/  # Álgebra linear computacional
 │   └── computer-science/    # Ciência da computação pura
 ├── applied-skills/          # Habilidades práticas
@@ -54,7 +54,7 @@ learntrack/
 │   └── advanced/            # Sistemas complexos
 └── assessment/              # Ferramentas de autoavaliação
     ├── quizzes/             # Questionários interativos
-    └── benchmarks/          # Testes de desempenho
+
 ```
 
 ## 📚 Cursos
