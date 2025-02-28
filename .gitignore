@@ -1,0 +1,11 @@
+# Ignorar tudo em todas as pastas
+*
+
+# Mas não ignorar as próprias pastas
+!*/
+
+# Não ignorar o .gitignore
+!.gitignore
+
+# Não ignorar README.md
+!README.md
