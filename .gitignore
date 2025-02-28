@@ -1,11 +1,12 @@
-# Ignorar tudo em todas as pastas
-*
+# Manter as pastas específicas
+!applied-skills/
+!assessment/
+!core-knowledge/
+!projects/
 
-# Mas não ignorar as próprias pastas
-!*/
-
-# Não ignorar o .gitignore
+# Manter README e gitignore
 !.gitignore
-
-# Não ignorar README.md
 !README.md
+
+# Ignorar todo o resto
+*
